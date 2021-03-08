@@ -2,9 +2,13 @@
 
 ![alt text](https://i.redd.it/qkkb7z4ocul61.png)
 Dependencies:
+
 *Polybar
+
 *Picom(https://github.com/ibhagwan/picom)
+
 *bash
+
 *rofi
 ################################################
 

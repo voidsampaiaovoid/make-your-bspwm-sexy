@@ -10,6 +10,7 @@ Dependencies:
 *bash
 
 *rofi
+
 ################################################
 
 The polybar is based in [TERROO APTPORN POLYBAR](https://github.com/terroo/aptporn/tree/main/polybar)
